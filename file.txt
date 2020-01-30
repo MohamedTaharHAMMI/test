@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hello mohamed tahar MASTER !
-=======
 hello mohamed tahar ouenza  !
->>>>>>> med
 ça va et toi ? 
